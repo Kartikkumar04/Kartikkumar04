@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kartikkumar04
-- 👀 I’m interested in Full Stack and AI
-- 🌱 I’m currently learning Python AI/ML (Full Stack----paused)
-- 💞️ I’m looking to collaborate on Instagram
-- 📫 How to reach me codedeveloperz on instagram 
+- 👋 Hi, I’m @Kartikkumar04.
+- 👀 I’m interested in AI and Full Stack.
+- 🌱 I’m currently learning Python AI/ML (Full Stack----paused).
+- 💞️ I’m looking to collaborate on Instagram.
+- 📫 How to reach me 'codedeveloperz' on instagram .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 🙂
 
